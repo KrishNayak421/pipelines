@@ -1,0 +1,5 @@
+console.log("Starting test pipeline...");
+
+setTimeout(() => console.log("Waiting 3 seconds..."), 3000);
+
+console.log("Test pipeline completed.");
